@@ -10,6 +10,7 @@
   (BENSPÆND: Mappen skal være tom, når du laver en ny vite app. Du får mulighed for at ignorere de filer som ligger i mappen, men dette VIL overskrive denne readme fil. Du kan med fordel omdøbe den til fx. opgave.md)
 - du kan bruge `npm create vite@latest .` til at oprette en react app i den mappe du allerede står i uden at oprette en ny mappe.
 - Du skal bruge React Router til at navigere mellem siderne i appen.
+- Du skal fetche hundende fra det udleverede api (se nedenfor).
 - Du skal bruge et route parameter til at sende id'et videre til detaljesiden, og fetche en enkelte hund på detalje siden.
 - husk at lave en branch til dit arbejde
 
@@ -24,6 +25,9 @@
 ### **Ekstraopgaver hvis du er hurtigt færdig**
   1. Lav styling til siderne med CSS.
   2. I bredden bør applikatinen passe til alle mobiltelefoner. Tænk over dit valg af layoutmodel(ler).
+
+### **API til opgaven**
+  Du kan klone api'et til opgaven her: https://github.com/rts-cmk-opgaver/frameworks1-petapp-api
 
 ### **Husk!**
 - Commit og push ofte
