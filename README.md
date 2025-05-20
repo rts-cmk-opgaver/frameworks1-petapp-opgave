@@ -17,8 +17,9 @@
 - Formålet med opgaven er at træne:
   1. At bruge React Router til at lave en applikation med flere sider i. Sørg for at dit fokus ligger primært på dette. Styling er på denne opgave et 'nice-to-have'.
   2. At lave dynamiske routes med parametre, så du kan sende information med fra en side til en anden.
-  3. Bruge det indbyggede `useParams` hook til at 'fiske' id'et på detaljesiden, så du kan fetche den enkelte hund..
-  4. At opdele din kode i komponenter.
+  3. Bruge det indbyggede `useParams` hook til at 'fiske' id'et på detaljesiden, så du kan fetche den enkelte hund.
+  4. Bruge ikoner fra react-icons biblioteket.
+  5. At opdele din kode i komponenter.
   
 ### **Ekstraopgaver hvis du er hurtigt færdig**
   1. Lav styling til siderne med CSS.
